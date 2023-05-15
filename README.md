@@ -1,7 +1,7 @@
 # Sparkling Diwali Sales: Uncovering Growth Opportunities with Data-driven Analysis and Visualization
 ***Project Title: "Exploring Diwali Sales Trends: A Data Analysis and Visualization Project"***
 
-Introduction:
+### Introduction:
 The aim of this project is to analyze and visualize the sales trends during the Diwali season, a major festival celebrated in many parts of India. By diving into the sales data, we can uncover valuable insights and patterns that can help businesses optimize their strategies, identify growth opportunities, and make data-driven decisions.
 
 Data Collection:
